@@ -13,4 +13,4 @@ See the 'cmd' directory for simple examples.
 
 Each body measurement is taken in millimeters using cheap body-fat calipers.
 
-The body-fat weight scales are grossly inaccurate; relying on an electrical signal sent across the both feet to estimate body-fat.  This method only estimates the lower half of the body.
+Existing body-fat weight-scales are grossly inaccurate; relying on an electrical signal sent across both feet to estimate body-fat.  This method only estimates the lower half of the body's fat percentage.
